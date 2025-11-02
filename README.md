@@ -45,7 +45,11 @@
 ### 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DIEGODOPAZO/DIEGODOPAZO/main/output/github-contribution-grid-snake-dark.svg" alt="contribution-snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
