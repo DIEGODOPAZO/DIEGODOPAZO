@@ -1,6 +1,6 @@
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Diego+👋;Cybersecurity+%7C+Pentesting+%7C+Developer;Exploit.+Defend.+Automate." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I%27m+Diego+%F0%9F%91%8B;Cybersecurity+%7C+Pentesting+%7C+Developer;Exploit.+Defend.+Automate." alt="Typing SVG" />
 
 ---
 
@@ -45,7 +45,7 @@
 ### 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DIEGODOPAZO/DIEGODOPAZO/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/DIEGODOPAZO/DIEGODOPAZO/main/output/github-contribution-grid-snake-dark.svg" alt="contribution-snake"/>
 </p>
 
 ---
