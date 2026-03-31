@@ -31,14 +31,6 @@
 🔹 [**OnionRouting**](https://github.com/DIEGODOPAZO/OnionRouting) — A system for message delivery inspired by onion routing.  
 🔹 [**AISecretary**](https://github.com/DIEGODOPAZO/AISecretary) — An **AI-powered virtual assistant** using the MCP protocol.
 
----
-
-### ⚡ GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DIEGODOPAZO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00F7FF&title_color=00F7FF" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGODOPAZO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF" />
-</p>
 
 ---
 
